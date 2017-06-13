@@ -1,0 +1,6 @@
+.idea
+.vscode
+.tags*
+coverage
+node_modules
+out
